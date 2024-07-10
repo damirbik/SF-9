@@ -1,0 +1,14 @@
+C:\Sharpy\SF-9\bin\Debug\net8.0\SF-9.exe
+C:\Sharpy\SF-9\bin\Debug\net8.0\SF-9.deps.json
+C:\Sharpy\SF-9\bin\Debug\net8.0\SF-9.runtimeconfig.json
+C:\Sharpy\SF-9\bin\Debug\net8.0\SF-9.dll
+C:\Sharpy\SF-9\bin\Debug\net8.0\SF-9.pdb
+C:\Sharpy\SF-9\obj\Debug\net8.0\SF-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharpy\SF-9\obj\Debug\net8.0\SF-9.AssemblyInfoInputs.cache
+C:\Sharpy\SF-9\obj\Debug\net8.0\SF-9.AssemblyInfo.cs
+C:\Sharpy\SF-9\obj\Debug\net8.0\SF-9.csproj.CoreCompileInputs.cache
+C:\Sharpy\SF-9\obj\Debug\net8.0\SF-9.dll
+C:\Sharpy\SF-9\obj\Debug\net8.0\refint\SF-9.dll
+C:\Sharpy\SF-9\obj\Debug\net8.0\SF-9.pdb
+C:\Sharpy\SF-9\obj\Debug\net8.0\SF-9.genruntimeconfig.cache
+C:\Sharpy\SF-9\obj\Debug\net8.0\ref\SF-9.dll
